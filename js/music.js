@@ -8,8 +8,7 @@ function playPause(){
     if (music.paused){
         music.play();
         aTitle.title = "暂停音乐";
-    }
-    else{
+    }else{
         music.pause();
         aTitle.title = "播放音乐";
     }

@@ -1,5 +1,5 @@
 var data = [];
-var dataStr = "1、工大油菜花@\
+var dataStr = "1、花@\
 <br><br>\
 让人觉得愉快的是<br>\
 闻见槐树花和香椿花，<br>\
